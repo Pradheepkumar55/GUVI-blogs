@@ -8,18 +8,6 @@ A React-based blog platform with dynamic routing using `react-router-dom`. The p
 - Uses `NavLink` for navigation and `useParams` to fetch dynamic routes.
 - Responsive design with Bootstrap for styling.
 
-### Techs used 🚀
-- React
-- JSX
-- HTML/CSS
-- Bootstrap
-
-### Components 📚
-* Home
-* Blogs
-* Blogcard -> (All, Full stack, Data Science, Cyber Security, Career)
-    * Blogdetails -> for each Blogcard
-
 ### Routing 🗺️
 
 * Home: `/`
